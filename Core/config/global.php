@@ -6,12 +6,12 @@ define("DB_HOST","localhost");
 define("DB_NAME", "gestor_entradas_salidas");
 
 //Usuario de la base de datos
-define("DB_USERNAME", "gestor_entradas_salidas_user");
+define("DB_USERNAME", "root");
 
-//Contraseña del usuario de la base de datos
+//Contrase聛0艩9a del usuario de la base de datos
 define("DB_PASSWORD", "");
 
-//definimos la codificaci贸n de los caracteres
+//definimos la codificaci脙鲁n de los caracteres
 define("DB_ENCODE","utf8");
 
 //Definimos una constante como nombre del proyecto
