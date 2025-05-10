@@ -1,1 +1,1 @@
-test
+Gestor de inventario Tags Publicidad.
